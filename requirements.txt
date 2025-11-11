@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+pyaudio
+pyttsx3
+fuzzywuzzy
+python-Levenshtein
