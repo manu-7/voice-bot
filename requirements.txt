@@ -1,6 +1,6 @@
 streamlit
-speechrecognition
-pyaudio
-pyttsx3
+SpeechRecognition
+audio-recorder-streamlit
+gTTS
 fuzzywuzzy
 python-Levenshtein
